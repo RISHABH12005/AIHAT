@@ -1,4 +1,4 @@
-# Raspberry Pi AI HAT+
+# Raspberry Pi AI HAT+ (26-TOPS)
 
 
 
