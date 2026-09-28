@@ -1,4 +1,4 @@
-# Raspberry Pi AI HAT+ — Installation Guide
+# Raspberry Pi AI HAT+ Installation
 
 This guide covers the **Raspberry Pi 5 AI HAT+ (26 TOPS)** with the **Hailo-8 NPU**.
 
