@@ -1,6 +1,6 @@
 # Hailo Models
 
-## 1. LIST ALL MODELS
+## 1. List All Models
 
 List all installed HEF models:
 
@@ -8,7 +8,7 @@ List all installed HEF models:
 find /usr/share/hailo-models/ -type f -name "*.hef" -printf "%f\n" | sort
 ```
 
-## 2. FIND ALL OR ONE MODEL
+## 2. Find All / specific Model
 
 ### Find all HEF models
 
@@ -24,7 +24,7 @@ Example: YOLOv8
 find /usr/share/hailo-models/ -type f -iname "*yolov8*"
 ```
 
-## 3. RUN ONE MODEL
+## 3. Run specific Model
 
 Replace `MODEL.hef` with the model you want to run:
 
@@ -32,7 +32,7 @@ Replace `MODEL.hef` with the model you want to run:
 hailortcli run /usr/share/hailo-models/MODEL.hef
 ```
 
-## 4. TEST ONE MODEL
+## 4. Test specific Model
 
 Test a model for 5 seconds:
 
