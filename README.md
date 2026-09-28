@@ -30,7 +30,7 @@ The **Raspberry Pi AI HAT+ (26 TOPS)** is an AI accelerator for the **Raspberry 
 
 ## 4. Installation
 
-See **[INSTALL.md](INSTALL.md)** for the complete guide covering:
+See **[INSTALL.md](install.md)** for the complete guide covering:
 
 1. **Setup / Installation**
 2. **Verification**
@@ -38,4 +38,4 @@ See **[INSTALL.md](INSTALL.md)** for the complete guide covering:
 
 ## 5. Model
 
-See **[Models.md](Models.md)** for finding, running, and testing installed Hailo HEF models.
+See **[Models.md](models.md)** for finding, running, and testing installed Hailo HEF models.
