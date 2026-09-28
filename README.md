@@ -35,3 +35,7 @@ See **[INSTALL.md](INSTALL.md)** for the complete guide covering:
 1. **Setup / Installation**
 2. **Verification**
 3. **Error / Fix**
+
+## 5. Model
+
+See **[Models.md](Models.md)** for finding, running, and testing installed Hailo HEF models.
